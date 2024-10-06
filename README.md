@@ -35,3 +35,32 @@ El prototipo dado esta diseñado en mobile, a pesar de no tener la versión desk
 ### Bonus
 Al realizar uno o todos los puntos siguientes son puntos extras al calificar el resultado de la prueba:
 * Si se recarga la página y se tenian filtros aplicados, estos se deben de conservar.
+
+## Consejos sobre el código
+
+1. **Estructura del código**: El código debe estar bien organizado y fácil de leer.
+
+2. **Semántica HTML**: El HTML debe ser semántico y accesible.
+
+3. **Pensando en equipo**: Prepara tu proyecto pensando que cualquier persona de tu equipo puede tener que trabajar en él en el futuro. (scripts en el package.json, mínima documentación en el README, comentarios en el código si es necesario, etc)
+
+4. **Formatea tu código**: Asegúrate de que tu código está formateado de forma consistente. Puedes usar Prettier o cualquier otra herramienta que te guste.
+
+5. **Preparado para producción**: Asegúrate de que tu aplicación está lista para producción. Minimiza el código, optimiza las imágenes, etc.
+
+## Desafíos adicionales
+
+**¿Quieres ir más allá?** Estos son algunos desafíos adicionales que puedes intentar:
+
+- Implementa la funcionalidad de carrito de la compra.
+- Haz que el diseño sea responsive.
+- Integra la paginación tanto en la API como en la web.
+
+## Entrevista
+
+Si pasas a la siguiente fase, te pediremos que hagas una entrevista con nosotros. Durante la entrevista, te pediremos que expliques tu código y que hagas algunos cambios en el mismo.
+
+- Nos tendrás que explicar el código que has escrito y las decisiones que has tomado.
+- Haremos cambios en el JSON y tendrás que adaptar el código en vivo.
+
+Buena suerte y ¡diviértete programando!
