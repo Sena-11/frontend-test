@@ -20,7 +20,7 @@ Tener en cuenta los siguientes requerimientos para realizar la funcionalidad de 
 ### Requisitos técnicos
 * Usar CSS para crear los estilos
 * El Js debe ser escrito en ES6. Y debe contruir una clase Js para el funcionamiento de los filtros. (No se debe usar ningún framework para Js como Jquery u otros)
-* Para la construcción del listado de los productos usar el archivo ```products.json``` que esta en este repositorio, usando la libreria [Handlebars](https://handlebarsjs.com/ "Ir a Handlebars").
+* Para la construcción del listado de los productos usar el archivo ```products.json``` que esta en este repositorio, puede usar la libreria [Handlebars](https://handlebarsjs.com/ "Ir a Handlebars").
 * Si usa librerias de terceros usar [CDNJS](https://cdnjs.com/ "Ir a CDNJS").
 * Usar HTML5 y CSS3.
 * Puede usar cualquier framework frontend para apoyarse en la maquetación.
